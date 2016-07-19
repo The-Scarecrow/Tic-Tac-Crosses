@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<link href="CSS - TicTacToe.css" rel="stylesheet" type="text/css">
+
+	<div id = 'Sqaures'>
+			<button class = 'Square' id = 'One'> </button>
+			<button class = 'Square' id = 'Two'> </button>
+			<button class = 'Square' id = 'Three'> </button>
+			<button class = 'Square' id = 'Four'> </button>
+			<button class = 'Square' id = 'Five'> </button>
+			<button class = 'Square' id = 'Six'> </button>
+			<button class = 'Square' id = 'Seven'> </button>
+			<button class = 'Square' id = 'Eight'> </button>
+			<button class = 'Square' id = 'Nine'> </button>
+
+</html>
